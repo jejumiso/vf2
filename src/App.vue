@@ -3,6 +3,7 @@
     <div id="nav">
       <router-link to="/">우하하</router-link> |
       <router-link to="/about">About</router-link>
+      <router-link to="/xxx">xxx</router-link>
     </div>
     <router-view/>
   </div>
